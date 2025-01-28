@@ -22,7 +22,7 @@ I'm a UCLA student studying in Cognitive Science and Statistics & Data Science. 
 - Machine learning 🤖
 - Web development 💻
 
-Skills: Unity, Godot, C++, C#, Python, R, PyTorch, HTML, CSS, JavaScript
+Skills: Unity, Godot, C++, C#, Python, R, PyTorch, HTML, CSS, JavaScript... and more
 
 ## Projects 🛠️ ##
 
