@@ -35,3 +35,5 @@ WEB PAGE: Take a look at [this experiment website](dubiousduck.github.io/Ind-Dif
 Reach me at:
 - [Linkedin](https://www.linkedin.com/in/oscar-shang-hsuan-su/)
 - [Itch.io](https://dubiousduck.itch.io/)
+
+Feel free to ask me anything!
