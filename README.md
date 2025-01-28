@@ -28,7 +28,7 @@ Skills: Unity, Godot, C++, C#, Python, R, PyTorch, HTML, CSS, JavaScript... and 
 
 GAMES: Check out the games I made on [my page](https://dubiousduck.itch.io/).
 
-WEB PAGE: Take a look at [this experiment website](dubiousduck.github.io/Ind-Dif-Visual-Impression/?id=1234) I made for my lab.
+WEB PAGE: Take a look at [this experiment website](https://github.com/DubiousDuck/Ind-Dif-Visual-Impression) I made for my lab.
 
 ## Get in touch ☕️ ##
 
