@@ -1,4 +1,4 @@
-# Hi there! I'm Oscar Su 👋 #
+# Hi there! I'm Oscar Su #
 <!--
 **DubiousDuck/DubiousDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me 🦆 ##
+## About Me ##
 
-I'm a UCLA student studying in Cognitive Science and Statistics & Data Science. I do:
-- Game development 🎮
-- Data analysis 🧑‍💻
-- Machine learning 🤖
-- Web development 💻
+I'm a UCLA student studying Cognitive Science and Statistics & Data Science. I do:
+- Game development
+- Data analysis
+- Machine learning
+- Web development
 
 Skills: Unity, Godot, C++, C#, Python, R, PyTorch, HTML, CSS, JavaScript... and more
 
 ## Projects 🛠️ ##
 
-GAMES: Check out the games I made on [my page](https://dubiousduck.itch.io/).
+GAMES: Check out the games I made on [my page](https://oscarshs.itch.io).
 
 WEB PAGE: Take a look at [this experiment website](https://github.com/DubiousDuck/Ind-Dif-Visual-Impression) I made for my lab.
 
@@ -34,6 +34,6 @@ WEB PAGE: Take a look at [this experiment website](https://github.com/DubiousDuc
 
 Reach me at:
 - [Linkedin](https://www.linkedin.com/in/oscar-shang-hsuan-su/)
-- [Itch.io](https://dubiousduck.itch.io/)
+- [Itch.io](https://oscarshs.itch.io)
 
 Feel free to ask me anything!
