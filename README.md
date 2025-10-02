@@ -24,13 +24,13 @@ I'm a UCLA student studying Cognitive Science and Statistics & Data Science. I d
 
 Skills: Unity, Godot, C++, C#, Python, R, PyTorch, HTML, CSS, JavaScript... and more
 
-## Projects 🛠️ ##
+## Projects ##
 
 GAMES: Check out the games I made on [my page](https://oscarshs.itch.io).
 
 WEB PAGE: Take a look at [this experiment website](https://github.com/DubiousDuck/Ind-Dif-Visual-Impression) I made for my lab.
 
-## Get in touch ☕️ ##
+## Get in touch ##
 
 Reach me at:
 - [Linkedin](https://www.linkedin.com/in/oscar-shang-hsuan-su/)
